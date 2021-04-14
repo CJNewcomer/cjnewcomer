@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Sangha](https://sangha-full-stack.herokuapp.com)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React Native**, **Typescript**, **GraphQL**
 
 - 👨‍💻 All of my projects are available at [https://cjnewcomer.github.io](https://cjnewcomer.github.io)
 
