@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cjnewcomer&label=Profile%20views&color=0e75b6&style=flat" alt="cjnewcomer" /> </p>
 
-- 🔭 I’m currently working on mobile development with React Native
+- 🔭 I’m currently working on new technologies with old projects
 
-- 🌱 I’m currently learning **React Native**, **Typescript**, **GraphQL**
+- 🌱 I’m currently learning **Typescript**, **GraphQL**
 
 - 👨‍💻 All of my projects are available at [https://cjnewcomer.github.io](https://cjnewcomer.github.io)
 
