@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Courtney Newcomer</h1>
-<h3 align="center">A curious full stack web developer from Tennessee that loves to collaborate. Formerly worked in the manufacturing, entertainment, sports, and medical device industries.</h3>
+<h3 align="center">I am currently working as a Software Engineer at Advanced Agrilytics!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cjnewcomer&label=Profile%20views&color=0e75b6&style=flat" alt="cjnewcomer" /> </p>
-
-- 🔭 I’m currently working on new technologies with old projects
-
-- 🌱 I’m currently learning **Typescript**, **GraphQL**
 
 - 👨‍💻 All of my projects are available at [https://cjnewcomer.github.io](https://cjnewcomer.github.io)
 
