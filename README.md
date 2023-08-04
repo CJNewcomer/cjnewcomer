@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Courtney Newcomer</h1>
-<h3 align="center">I am currently brushing up on Python whilst searching for my next adventure!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cjnewcomer&label=Profile%20views&color=0e75b6&style=flat" alt="cjnewcomer" /> </p>
 
